@@ -1,3 +1,4 @@
+![logo](https://github.com/sayedul818/sayedul818/blob/main/cover%20image.jpg)
 <h1 align="center">Hi 👋, I'm Sayed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
