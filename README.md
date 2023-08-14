@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sayed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" src="img.gif" alt="coading" width="400">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedul818&label=Profile%20views&color=0e75b6&style=flat" alt="sayedul818" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedul818" alt="sayedul818" /></a> </p>
+
+<img align="right" src="img.gif" alt="coading" width="250">
+
 
 - 🌱 I’m currently learning **react.js**
 
