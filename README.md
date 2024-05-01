@@ -28,8 +28,6 @@
     </a>
          <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> <img src="https://webforpc.com/wp-content/uploads/2018/03/c-plus-plus-program-logo-image.png" alt="c++" width="40" height="40"/> 
     </a>
-     <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/520/669/png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark.png" alt="c#" width="40" height="40"/> 
-    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
 </a> 
