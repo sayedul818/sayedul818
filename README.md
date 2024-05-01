@@ -16,7 +16,7 @@
 - 📫 How to reach me **sayedulsayed818@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/sayedul-islam-sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sayedul-islam-sayed" height="30" width="40" /></a>
     <a href="https://www.facebook.com/2323.sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/2323.sayed" height="30" width="40" /></a>
     <a href="https://www.instagram.com/_s_a_y_e_d_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_s_a_y_e_d_/" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
          <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> <img src="https://webforpc.com/wp-content/uploads/2018/03/c-plus-plus-program-logo-image.png" alt="c++" width="40" height="40"/> 
     </a>
