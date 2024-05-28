@@ -28,7 +28,7 @@
     </a>
     <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> <img src="https://webforpc.com/wp-content/uploads/2018/03/c-plus-plus-program-logo-image.png" alt="c++" width="40" height="40"/> 
     </a>
-    <a href="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png" alt="java" width="40" height="40"/> 
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fjava-logo.html&psig=AOvVaw3oS1yA6-OOczQr0GE3tZCw&ust=1716947791806000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCo0Yufr4YDFQAAAAAdAAAAABAo" alt="java" width="40" height="40"/> 
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
