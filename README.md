@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://sayedul-sayed.netlify.app/](https://sayedul-sayed.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sayedulsayed.netlify.app/](https://sayedulsayed.netlify.app/)
 
 - 📫 How to reach me **sayedulsayed818@gmail.com**
 
